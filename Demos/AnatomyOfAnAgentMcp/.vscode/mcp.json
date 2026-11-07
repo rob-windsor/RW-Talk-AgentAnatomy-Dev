@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "contoso-flights-local": {
+            "type": "http",
+            "url": "http://localhost:7071/runtime/webhooks/mcp"
+        }
+    }
+}
